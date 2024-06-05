@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9+Charted&display=swap');
+
+body{
+    background-color: #f8a7da;
+}
+
+button {
+    background-color: #ff0180;
+    color: rgb(0, 0, 0);
+    font-family: "Yellowtail", cursive;
+    padding: 14px 20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:30px;
+}
+
+button:hover {
+    background-color: #f633af;
+    color: rgb(135, 26, 71);
+}
+
+header{
+    background-color: #ff0180;
+    color: rgb(0, 0, 0);
+    font-family: "Yellowtail", cursive;
+    text-align: center;
+    border-radius: 10px;
+    margin-left:30px;
+    margin-right:30px;
+}
+
+section{
+    margin-right:100px;
+}
+
